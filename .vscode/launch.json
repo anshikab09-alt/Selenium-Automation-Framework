@@ -8,6 +8,13 @@
       "request": "launch",
       "mainClass": "com.example.demo.Selenium",
       "projectName": "selenium-automation-framework"
+    },
+    {
+      "name": "Run Core Java Brush Up 2",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "com.example.Demo.CoreJavaBrushUp2",
+      "projectName": "selenium-automation-framework"
     }
   ]
 }
